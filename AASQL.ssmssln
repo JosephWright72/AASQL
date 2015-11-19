@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ADSReportGenerator", "ADSReportGenerator\ADSReportGenerator.ssmssqlproj", "{D6577A6F-6941-4DFA-B67C-72F086722FB8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MI", "MI\MI.ssmssqlproj", "{A1076BE5-12BE-4876-8200-6082DC9CBD5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6577A6F-6941-4DFA-B67C-72F086722FB8}.Default|Default.ActiveCfg = Default
+		{A1076BE5-12BE-4876-8200-6082DC9CBD5A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
